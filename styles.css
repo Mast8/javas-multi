@@ -51,6 +51,12 @@
   display: none;
 }
 
+button:hover {
+  color: white;
+  background-color: grey;
+  border-radius: 5px;
+}
+
 @keyframes slide {
   0% {
     transform: translateX(200%);
